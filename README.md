@@ -1,2 +1,0 @@
-# FastAPI
-work with FastAPI
